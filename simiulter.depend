@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591134292 source:e:\c++ project\simiulter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stddef.h>
+
