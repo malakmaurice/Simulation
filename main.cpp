@@ -3,6 +3,8 @@
 #include<string>
 #include <stddef.h>
 using namespace std;
+
+
 class Node
 {
     short Value;
